@@ -1,6 +1,6 @@
 {
     "name": "@hejny/mattoni",
-    "version": "0.1.10",
+    "version": "0.1.11",
     "description": "Sample of tray module for Collboard.com",
     "license": "SEE LICENSE IN LICENSE",
     "contributors": [
