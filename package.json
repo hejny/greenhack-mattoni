@@ -1,6 +1,6 @@
 {
     "name": "@hejny/mattoni",
-    "version": "0.1.101",
+    "version": "0.1.114",
     "description": "Mattoni bottle",
     "license": "SEE LICENSE IN LICENSE",
     "contributors": [
@@ -20,7 +20,7 @@
     },
     "dependencies": {},
     "devDependencies": {
-        "@collboard/modules-sdk": "30.0.0",
+        "@collboard/modules-sdk": "33.0.0",
         "tslint": "6.1.3"
     }
 }
